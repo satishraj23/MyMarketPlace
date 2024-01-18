@@ -1,0 +1,19 @@
+{
+  "name": "com.marketplace.base",
+  "version": "1.0.0",
+  "description": "This is Basic Frame for Market Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishraj23/MyMarketPlace.git"
+  },
+  "author": "Satish Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishraj23/MyMarketPlace/issues"
+  },
+  "homepage": "https://github.com/satishraj23/MyMarketPlace#readme"
+}
